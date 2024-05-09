@@ -6,7 +6,7 @@
   "scripts": {
     "start:dev": "",
     "start": "",
-    "server": "node server.js",
+    "server": "",
     "build": "",
     "install": "",
     "client": ""
