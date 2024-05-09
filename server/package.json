@@ -1,7 +1,7 @@
 {
     "name": "JATE",
     "version": "1.0.0",
-    "description": "text-editor",
+    "description": "jate",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
